@@ -1,6 +1,6 @@
 # Rafael Wassoaski 
 
-### Hello there 🌑
+### Hello there 🖖
 
 My name is Rafael Wassoaski, im a Node.js developer that likes to make some toys with Java once in a while.
 
@@ -9,33 +9,24 @@ My name is Rafael Wassoaski, im a Node.js developer that likes to make some toys
 * **Name**: Rafael Wassoaski
 * **Age**: 22
 * **Living in**: Canoias-SC, Brazil
-* **Stack**: Node.js - Java - SQL
+* **Stack**: Node.js - Java - C - SQL
 * **Working at**: OZMap - System developer I
-* **University**: Nope. Only have one I.T associate degree.
+* **University**: Analysis and systems development at IFSC
 
-## Current learning 
+## Current learning 📚
+* **React native**
 
+## Curiosities about me
+* I really like the Dark Souls franchise
+* I already had a application server running at my notebook using one pendrive as hard drive
+* I already had bot writed in C, to play naval battle with me but i lost his code. A project is rebuildit with Node.Js
+* I worked 3 and a half years as video editor in a journal
 
-- 👷‍♂️ Atualmente trabalho como desenvolvedor de sistemas júnior na @OZMap
-
-<!--
-**Rafael-Wassoaski/Rafael-Wassoaski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
-Sou formado em Análise e desenvolvimento de sistemas pelo Instituto Federal de Santa Catarina (IFSC) Câmpus Canoinhas, onde participei de projetos como IFSC Routes, apresentando o projeto no SEPEI 2019 e aprendendo NodeJS. Desenvolvi meu TCC, em parceria com a Defesa Civil de Santa Catarina, que consiste em um módulo mobile (Android) e um módulo Web (Python, Django, MySql). Também no IFSC participei do desenvolvimento de um site (Python, Django, MySql) para o curso superior de Alimentos.
-
-Gosto de lógica de programação, de aprender novos frameworks e linguagens, além de programar pequenos softwares para passar o tempo
-
+<div>
+    <a target='_blank' href="https://www.instagram.com/meia._.noite/">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    </a>
+    <a target='_blank' href="https://www.linkedin.com/in/rafael-eduardo-meirelles-wassoaski-0b328015b/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+</div>
