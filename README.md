@@ -14,12 +14,13 @@ My name is Rafael Wassoaski, im a Node.js developer that likes to make some toys
 * **University**: Analysis and systems development at IFSC
 
 ## Current learning 📚
+* **React**
 * **React native**
 
 ## Curiosities about me
 * I really like the Dark Souls franchise
 * I already had a application server running at my notebook using one pendrive as hard drive
-* I already had bot writed in C, to play naval battle with me but i lost his code. A project is rebuildit with Node.Js
+* I already had a bot writed in C to play naval battle with me via power shell. A project is rebuildit with Node.Js and React
 * I worked 3 and a half years as video editor in a journal
 
 <div>
