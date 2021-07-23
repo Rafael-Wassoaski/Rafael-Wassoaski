@@ -17,11 +17,11 @@ My name is Rafael Wassoaski, im a Node.js developer that likes to make some toys
 * **React**
 * **React native**
 
-## Curiosities about me
+<!-- ## Curiosities about me
 * I really like the Dark Souls franchise
 * I already had a application server running at my notebook using one pendrive as hard drive
 * I already had a bot writed in C to play naval battle with me via power shell. A project is rebuildit with Node.Js and React
-* I worked 3 and a half years as video editor in a journal
+* I worked 3 and a half years as video editor in a journal -->
 
 <h2 align='left'>#Github: :octocat:⚙️</h2>
 <p align="center">
