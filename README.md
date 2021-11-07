@@ -13,9 +13,9 @@ My name is Rafael Wassoaski, im a Node.js developer that likes to make some toys
 * **Working at**: OZMap - System developer I
 * **University**: Analysis and systems development at IFSC
 
-## Current learning 📚
+<!-- ## Current learning 📚
 * **React**
-* **React native**
+* **React native** -->
 
 <!-- ## Curiosities about me
 * I really like the Dark Souls franchise
