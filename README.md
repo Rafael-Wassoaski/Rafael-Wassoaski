@@ -23,7 +23,7 @@ My name is Rafael Wassoaski, im a Node.js developer that likes to make some toys
 * I already had a bot writed in C to play naval battle with me via power shell. A project is rebuildit with Node.Js and React
 * I worked 3 and a half years as video editor in a journal -->
 
-<h2 align='left'>#Github: :octocat:⚙️</h2>
+<!-- <h2 align='left'>#Github: :octocat:⚙️</h2>
 <p align="center">
     <img  align="center" src="https://github-readme-stats.vercel.app/api?username=Rafael-Wassoaski&count_private=true&show_icons=true&theme=onedark" alt="My GitHub stats"/>
     <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-Wassoaski&langs_count=10&layout=compact&theme=onedark" alt="Most Used Language"/>
@@ -43,3 +43,4 @@ My name is Rafael Wassoaski, im a Node.js developer that likes to make some toys
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
 </div>
+ -->
