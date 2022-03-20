@@ -34,7 +34,7 @@ My name is Rafael Wassoaski, im a Node.js developer that likes to make some toys
 </p>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Rafael-Wassoaski.Rafael-Wassoaski)
-
+ -->
 <div>
     <a target='_blank' href="https://www.instagram.com/meia._.noite/">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
@@ -43,4 +43,4 @@ My name is Rafael Wassoaski, im a Node.js developer that likes to make some toys
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
 </div>
- -->
+
