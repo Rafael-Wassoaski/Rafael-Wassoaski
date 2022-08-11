@@ -10,7 +10,7 @@ My name is Rafael Wassoaski, im a Node.js developer that likes to make some toys
 * **Age**: 23
 * **Living in**: Canoinhas-SC, Brazil
 * **Stack**: Java - Node.js - C - SQL
-* **Working at**: OZMap - System developer I
+* **Working at**: Icaro Tech - Junior Systems Analyst
 * **University**: Analysis and systems development at IFSC
 
 <!-- ## Current learning 📚
