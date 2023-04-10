@@ -2,7 +2,7 @@
 
 ### Hello there 🖖
 
-My name is Rafael Wassoaski, im a Node.js developer that likes to make some toys with Java once in a while.
+My name is Rafael Wassoaski, im a Java and Sprint-Boot developer that likes to make some toys with Java once in a while.
 
 ## Detailed information
 
