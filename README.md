@@ -9,7 +9,7 @@ My name is Rafael Wassoaski, im a Java and Sprint-Boot developer that likes to m
 * **Name**: Rafael Wassoaski
 * **Age**: 23
 * **Living in**: Canoinhas-SC, Brazil
-* **Stack**: Java - Node.js - C - SQL
+* **Stack**: Java - Spring-boot - SQL - NoSQL
 * **Working at**: Icaro Tech - Junior Systems Analyst
 * **University**: Analysis and systems development at IFSC
 
