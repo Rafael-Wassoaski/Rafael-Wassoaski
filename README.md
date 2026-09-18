@@ -7,9 +7,9 @@ My name is Rafael Wassoaski, im a Java and Sprint-Boot developer that likes to m
 ## Detailed information
 
 * **Name**: Rafael Wassoaski
-* **Age**: 26
-* **Living in**: Canoinhas-SC, Brazil
-* **Stack**: Java - Spring-boot - SQL - NoSQL
+* **Age**: 27
+* **Living in**: Curitiba-PR, Brazil
+* **Stack**: Java - Spring-boot - SQL - NoSQL - Kubernetes - AWS - Redis
 * **Working at**: Icaro Tech - Junior Systems Analyst
 * **University**: Analysis and systems development at IFSC
 
@@ -36,10 +36,10 @@ My name is Rafael Wassoaski, im a Java and Sprint-Boot developer that likes to m
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Rafael-Wassoaski.Rafael-Wassoaski)
  -->
 <div>
-    <a target='_blank' href="https://www.instagram.com/meia._.noite/">
+    <a target='_blank' href="[https://www.instagram.com/meia._.noite/](https://www.instagram.com/rafael_wassoaski/)">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
     </a>
-    <a target='_blank' href="https://www.linkedin.com/in/rafael-eduardo-meirelles-wassoaski-0b328015b/">
+    <a target='_blank' href="https://www.linkedin.com/in/rafael-wassoaski/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
 </div>
