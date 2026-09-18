@@ -36,7 +36,7 @@ My name is Rafael Wassoaski, im a Java and Sprint-Boot developer that likes to m
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Rafael-Wassoaski.Rafael-Wassoaski)
  -->
 <div>
-    <a target='_blank' href="[https://www.instagram.com/meia._.noite/](https://www.instagram.com/rafael_wassoaski/)">
+    <a target='_blank' href="(https://www.instagram.com/rafael_wassoaski/">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
     </a>
     <a target='_blank' href="https://www.linkedin.com/in/rafael-wassoaski/">
